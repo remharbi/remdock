@@ -91,7 +91,7 @@ gems:
 
 
 uistring:
-    title: Hello # Displays as site title on top nav bar and on site metadata
+    title: Hiiiiii # Displays as site title on top nav bar and on site metadata
     description: Documentation theme for Reem  # Displays as site description meta
     search_placeholder_global: Global Search ...
     search_placeholder_product: Sidenav Search ...
